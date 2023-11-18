@@ -13,7 +13,7 @@ Explore the Walmart sales data through Exploratory Data Analysis (EDA) and visua
 
 ## Project Structure
 
-- **[Code](Walmart_EDA.ipynb) :** Contains scripts and notebooks for data analysis and visualization.
+- **[Code](https://github.com/houcine6/Walmart-EDA-Interactive-Dashboard/blob/main/Walmart_EDA.ipynb) :** Contains scripts and notebooks for data analysis and visualization.
 
 - **[Dataset](https://www.kaggle.com/datasets/yasserh/walmart-dataset) :** Holds the Walmart dataset and any relevant data files.
 
